@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asish-code/static/css/main.f855e6bc.css",
+    "main.js": "/asish-code/static/js/main.10f29700.js",
+    "static/js/675.717cccdd.chunk.js": "/asish-code/static/js/675.717cccdd.chunk.js",
+    "static/media/resume.pdf": "/asish-code/static/media/resume.ab8257cfa08444086471.pdf",
+    "index.html": "/asish-code/index.html",
+    "main.f855e6bc.css.map": "/asish-code/static/css/main.f855e6bc.css.map",
+    "main.10f29700.js.map": "/asish-code/static/js/main.10f29700.js.map",
+    "675.717cccdd.chunk.js.map": "/asish-code/static/js/675.717cccdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.10f29700.js"
+  ]
+}
